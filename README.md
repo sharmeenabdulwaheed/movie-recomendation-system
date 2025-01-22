@@ -1,2 +1,2 @@
 # movie-recomendation-system
-This is a movie recomendation system i made using a dataset containing the information of 5000 movies
+This is a content movie recomendation system i made using a dataset containing the information of 5000 movies. After initial preprocessing of columns and applyin NLP concepts to preprocess text and get it inour desired format, we used the  method of cosine similarity to reccomend movies which are similar to the movie being entered. I am attaching jupyter notebbook which containes whole code and I made the front-end using streamlit
